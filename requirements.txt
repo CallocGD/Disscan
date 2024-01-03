@@ -1,0 +1,6 @@
+orjson 
+asyncclick
+aiohttp
+aiohttp_socks
+attrs
+colorama
